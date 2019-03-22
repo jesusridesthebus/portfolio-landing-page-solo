@@ -15,8 +15,17 @@ body {
   padding-left: 5pt;
 }
 
-ul li {
+ol li {
   margin-bottom: 5px;
+}
+
+#queen-coding {
+  margin-top: 25px;
+  width: 300px;
+}
+
+#random {
+  color: rgb(245, 16, 149);
 }
 
 .container {
