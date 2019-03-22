@@ -3,6 +3,22 @@ body {
   font: normal 300 1em/1.5em 'Ubuntu', sans-serif;
 }
 
+#kelley-point {
+  width: 400px;
+}
+
+.jumbotron {
+  text-align: center;
+}
+
+#github-projects {
+  padding-left: 5pt;
+}
+
+ul li {
+  margin-bottom: 5px;
+}
+
 .container {
   background: #fff;
   width: 100%;
