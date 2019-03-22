@@ -4,6 +4,9 @@
 
 #### By **Liz Kelley**
 
+## Website
+[About Me](https://jesusridesthebus.github.io/portfolio-landing-page-solo/)
+
 ## Description
 
 This site will tell you about me. It will also include links to some of my coding projects on Github
